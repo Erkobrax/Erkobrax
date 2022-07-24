@@ -10,6 +10,8 @@
 * ➗ Math: mathematical statistics and linear algebra ( add later and change view of it )
 * 💂‍ English level B1-B2
 * ....
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erkobrax&repo=DS_Edu)](https://github.com/Erkobrax/DS_Edu)
 ## 📊 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erkobrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 📈  My activity in last 30 days
