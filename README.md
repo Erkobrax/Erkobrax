@@ -1,5 +1,3 @@
-# CV
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Data Analyst
 - 🎓 Studying software engineering at ITMO, 3 course
