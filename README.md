@@ -7,6 +7,7 @@
 ## 💼 My stack
 * 🐍 Python: numpy, pandas, seaborn, plotly ( add later and change view of it )
 * 📙 SQL: (describe level of it)
+* ➗ Math: mathematical statistics and linear algebra
 * 💂‍ English level B1-B2
 * ....
 ## 📊 Languages
