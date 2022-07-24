@@ -13,8 +13,10 @@
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erkobrax&repo=DS_Edu)](https://github.com/Erkobrax/DS_Edu)
 ## 📊 Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erkobrax&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erkobrax&theme=solarized_dark)
+
+<details open><summary>Indepth analysis</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+
+ 
 ## 📈  My activity in last 30 days
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erkobrax&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## :trophy: Github Profile Trophy
