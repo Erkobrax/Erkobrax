@@ -12,10 +12,7 @@
 * ....
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erkobrax&repo=DS_Edu)](https://github.com/Erkobrax/DS_Edu)
-## 📊 Languages
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erkobrax&theme=solarized_dark)
 
  
 ## 📈  My activity in last 30 days
