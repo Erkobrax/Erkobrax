@@ -7,7 +7,7 @@
 ## 💼 My stack
 * 🐍 Python: numpy, pandas, seaborn, plotly ( add later and change view of it )
 * 📙 SQL: (describe level of it)
-* 💂‍ ♂️English level B1-B2
+* 💂‍ English level B1-B2
 * ....
 ## 📊 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erkobrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
