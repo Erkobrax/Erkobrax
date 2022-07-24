@@ -14,7 +14,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erkobrax&repo=DS_Edu)](https://github.com/Erkobrax/DS_Edu)
 ## 📊 Languages
 
-<details open><summary>Indepth analysis</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+Language statistics in repositories:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erkobrax&theme=solarized_dark)
 
  
 ## 📈  My activity in last 30 days
