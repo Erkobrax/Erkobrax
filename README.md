@@ -15,4 +15,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erkobrax&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## :trophy: Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erkobrax)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 🤝 Contacts
+![](https://img.shields.io/badge/tg-https://t.me/Erkobraxx-blue) 
+![](https://img.shields.io/badge/mail-denis_suvorov%40niuitmo.ru-green)  
