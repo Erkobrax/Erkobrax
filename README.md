@@ -27,5 +27,7 @@
   <a href="https://t.me/Erkobraxx">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+ <a href="mailto:denis_suvorov@niuitmo.ru">
     <img src="https://img.shields.io/badge/mail-denis_suvorov%40niuitmo.ru-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Mail Badge"/>
+ </a>
 </div>
