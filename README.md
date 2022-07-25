@@ -30,3 +30,8 @@
     <img src="https://img.shields.io/badge/mail-denis_suvorov%40niuitmo.ru-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Mail Badge"/>
  </a>
 </div>
+
+</div>
+<img src="https://komarev.com/ghpvc/?username=Erkobrax&style=flat-square&color=blue" alt=""/>
+</div>
+
