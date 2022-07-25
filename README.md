@@ -22,3 +22,10 @@
 ## 🤝 Contacts
 ![](https://img.shields.io/badge/Tg-@Erkobraxx-blue) 
 ![](https://img.shields.io/badge/mail-denis_suvorov%40niuitmo.ru-green)  
+
+<div id="badges">
+  <a href="https://t.me/Erkobraxx">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+    <img src="https://img.shields.io/badge/mail-denis_suvorov%40niuitmo.ru-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Mail Badge"/>
+</div>
