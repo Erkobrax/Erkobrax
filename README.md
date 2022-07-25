@@ -19,7 +19,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erkobrax&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## :trophy: Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erkobrax)](https://github.com/ryo-ma/github-profile-trophy)
-## 🤝 Contacts
+## 🤝 Contacts(click on it)
 
 
 <div id="badges">
