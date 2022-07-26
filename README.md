@@ -15,7 +15,7 @@
 
 
  
-## 📈  My activity in last 30 days
+## 📈  My activity 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erkobrax)](https://git.io/streak-stats)
 
