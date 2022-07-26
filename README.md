@@ -16,7 +16,10 @@
 
  
 ## 📈  My activity in last 30 days
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Erkobrax&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erkobrax)](https://git.io/streak-stats)
+
+
 ## :trophy: Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erkobrax)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤝 Contacts(click on it)
