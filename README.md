@@ -20,8 +20,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erkobrax)](https://git.io/streak-stats)
 
 
-## :trophy: Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Erkobrax)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤝 Contacts(click on it)
 
 
