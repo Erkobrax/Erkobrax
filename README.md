@@ -12,7 +12,7 @@
 * ....
 ## Projects(need fill it)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erkobrax&repo=DS_Edu)](https://github.com/Erkobrax/DS_Edu)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erkobrax&repo=Kaggle)](https://github.com/Erkobrax/Kaggle)
 
  
 ## 📈  My activity 
