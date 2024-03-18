@@ -2,8 +2,6 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Interested in Data Science
 - 🎓 Studying software engineering at ITMO, third year student
-- 🐱‍💻 There was a six-month internship at the position of Data Analytics in the company [Algoritmika](https://career.habr.com/companies/algoritmika)
-- 🐱‍💻 There was a three-month internship at the position of Power BI Analytics in the company [Geropharm](https://geropharm.com)
 ## 💼 My stack
 * 🐍 Python: numpy, pandas, seaborn, plotly, sklearn, statics.....
 * 📙 SQL: 
